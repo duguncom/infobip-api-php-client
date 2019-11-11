@@ -2,13 +2,7 @@
   "name": "infobip/infobip-api-php-client",
   "description": "Infobip SMS library for PHP",
   "version": "2.3.1",
-  "keywords": [
-    "infobip",
-    "sms",
-    "hlr",
-    "msisdn",
-    "api"
-  ],
+  "keywords": ["infobip"],
   "homepage": "http://dev.infobip.com",
   "authors": [
     {
